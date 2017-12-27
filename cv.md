@@ -16,6 +16,7 @@ High-load hosting company
 
 **Used Technologies:** Nginx, Apache2, Varnish, OnApp, SaltStack, iptables, Docker, Kubernetes,
 Nagios, NewRelic, Python, Bash, Redmine, Gitlab.
+
 **Achievements:**
   * Worked as problem solver
   * Dockerization
