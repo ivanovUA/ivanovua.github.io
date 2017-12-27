@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Location: Ukraine, Kyiv  
+Location: Ukraine, Kyiv
+
 mail: ivanov.ua@ukr.net  
 ## Summary
 I'm Linux, Unix system engineer
@@ -12,6 +13,7 @@ In my work experience below you'll find over 6 year of Unix and Linux system adm
 
 ### Jun 2016 — Present. Linux system engineer and DevOps. Architechs
 High-load hosting company
+
 **Used Technologies:** Nginx, Apache2, Varnish, OnApp, SaltStack, iptables, Docker, Kubernetes,
 Nagios, NewRelic, Python, Bash, Redmine, Gitlab.
 **Achievements:**
@@ -27,6 +29,7 @@ Nagios, NewRelic, Python, Bash, Redmine, Gitlab.
 
 ### Mar 2016 — Present. Linux system engineer. Marketlis
 Small company with Linux servers
+
 **Used Technologies:** Nginx, Apache2, Icinga, KVM, PostgreSQL, Postfix, Samba, OpenVPN, LUKS  
 **Achievements:**
   * Fully automated systems
@@ -37,6 +40,7 @@ Small company with Linux servers
 
 ### Mar 2015 — May 2016. Senior linux engineer. NASOA
 Business school  
+
 **Achievements:**
   * Manager work
   * Planing projects
@@ -45,6 +49,7 @@ Business school
 
 ### Feb 2015 — May 2015. Linux engineer. NASOA
 Business school  
+
 **Achievements:**
   * Setup a new HVs and VMs
   * Bash and Python scripting
@@ -52,6 +57,7 @@ Business school
 
 ### Jan 2012 — Feb 2015. Junior linux system engineer. NASOA
 Business school  
+
 **Achievements:**
   * Setup linux systems for production
   * Help fix troubles for linux engineers
