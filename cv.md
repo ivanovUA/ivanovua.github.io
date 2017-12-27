@@ -31,6 +31,7 @@ High-load hosting company
 Small company with Linux servers
 
 **Used Technologies:** Nginx, Apache2, Icinga, KVM, PostgreSQL, Postfix, Samba, OpenVPN, LUKS  
+
 **Achievements:**
   * Fully automated systems
   * Bot for Telegram that notify for alerts
