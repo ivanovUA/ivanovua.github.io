@@ -4,7 +4,7 @@ layout: default
 
 Location: Ukraine, Kyiv
 
-mail: ivanov.ua@ukr.net
+mail: ivanov.ua@ukr.net   
 Skype: ua.corleone.ua
 ## Summary
 I'm a Linux, Unix system engineer
