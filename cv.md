@@ -12,7 +12,7 @@ In my work experience below you'll find over 6 year of Unix and Linux system adm
 
 ## Experience
 
-### Jun 2016 — Present. Linux system engineer and DevOps. Architechs
+### Jun 2016 — May 2018. Linux system engineer and DevOps. Architechs
 High-load hosting company
 
 **Used Technologies:** Nginx, Apache2, Varnish, OnApp, SaltStack, iptables, Docker, Kubernetes, Nagios, NewRelic, Python, Bash, Redmine, Gitlab.
