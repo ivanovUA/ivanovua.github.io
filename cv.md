@@ -43,7 +43,7 @@ High-load hosting company
   * Have configured Kubernetes cluster
   * Have served 300 VMs
 
-### Mar 2016 — Present. Linux system engineer. Marketlis
+### Mar 2016 — May 2018. Linux system engineer. Marketlis
 Small company with Linux servers
 
 **Used Technologies:** Nginx, Apache2, Icinga, KVM, PostgreSQL, Postfix, Samba, OpenVPN, LUKS  
