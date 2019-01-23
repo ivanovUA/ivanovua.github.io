@@ -4,3 +4,4 @@ show_downloads: false
 google_analytics: UA-131383896-1
 theme: jekyll-theme-hacker
 repository_url: github.com/ivanovua
+cv_pdf: https://github.com/ivanovUA/ivanovua.github.io/raw/master/CV.pdf
