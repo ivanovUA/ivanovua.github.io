@@ -10,6 +10,11 @@ Skype: ua.corleone.ua
 I'm a DevOps and Linux, Unix system engineer
 In my work experience below you'll find over 6 year of Unix and Linux system administration including network administration and DevOps. Last years I'm working as DevOps and provide this culture to companies. Part of being a system administrator required many things of me such as: team work, technical writing, project planning and problem solving. Also, a big part of system administration is learning new technologies on a regular basis. When working on a new project, I like to speak with the client, so that I can have a clear understanding of his/her needs and vision of the project.
 
+## Languages
+  * English — upper intermediate
+  * Russian — fluent
+  * Ukrainian — native
+  
 ## Experience
 
 ### May 2018 - Present. DevOps at TecSynt Solutions / NYNJA
@@ -93,7 +98,3 @@ Business school
   * Opportunity for iniative and interesting tasks
   * Long term projects
 
-## Languages
-  * English — upper intermediate
-  * Russian — fluent
-  * Ukrainian — native
