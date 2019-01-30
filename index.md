@@ -38,15 +38,15 @@ High-load hosting company
 **Used Technologies:** Nginx, Apache2, Varnish, OnApp, SaltStack, iptables, Docker, Kubernetes, Nagios, NewRelic, Python, Bash, Redmine, Gitlab.
 
 **Achievements:**
-  * Have been worked as problem solver
+  * Worked as problem solver
   * Dockerization
-  * Have been written a lot of SaltStack rules
-  * Have been rewrote all Varnish code (from v.3 to v.4)
-  * Have been written a lot of custom checks for Nagios on Bash and Python
+  * Written a lot of SaltStack rules
+  * Rewrote all Varnish code (from v.3 to v.4)
+  * Written a lot of custom checks for Nagios on Bash and Python
   * Virtualization experience
-  * Have been configured OnApp cluster
-  * Have been configured Kubernetes cluster
-  * Have been served 300 VMs
+  * Configured OnApp cluster
+  * Configured Kubernetes cluster
+  * Served 300 VMs
 
 ### Mar 2016 — May 2018. Linux system engineer. Marketlis
 Small company with Linux servers
@@ -56,17 +56,17 @@ Small company with Linux servers
 **Achievements:**
   * Fully automated systems
   * Bot for Telegram that notify for alerts
-  * Have been fully configured firewall with failover
-  * Have been configured backups
-  * Have been configured crypto-volumes
+  * Fully configured firewall with failover
+  * Configured backups
+  * Configured crypto-volumes
 
 ### Mar 2015 — May 2016. Senior linux engineer. NASOA
 Business school  
 
 **Achievements:**
   * Manager work
-  * Have been planned projects
-  * Have been planned shifts
+  * Planned projects
+  * Planned shifts
   * Have been tested new software
 
 ### Feb 2015 — May 2015. Linux engineer. NASOA
