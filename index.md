@@ -17,7 +17,7 @@ In my work experience below you'll find over 6 year of Unix and Linux system adm
   
 ## Experience
 
-### May 2018 - Present. DevOps at TecSynt Solutions / NYNJA
+### May 2018 - Feb 2019. DevOps at TecSynt Solutions / NYNJA
 
 **Used Technologies:** Kubernetes, Docker, Istio, EFK/ELK stack, GCP/GKE,
 AWS(SES, EC2, Mobile Device Farm, etc.), SauceLabs, Jira, Jenkins, Artifactory,
