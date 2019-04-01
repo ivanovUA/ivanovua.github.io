@@ -5,7 +5,7 @@ layout: default
 Location: Ukraine, Kyiv
 
 mail: ivanov.ua@ukr.net   
-Skype: ua.corleone.ua
+Skype: ua.corleone.ua   
 Telegram: @a1ex_iv
 ## Summary
 I'm a DevOps and Linux, Unix system engineer
