@@ -18,6 +18,17 @@ In my work experience below you'll find over 6 year of Unix and Linux system adm
   
 ## Experience
 
+### May 2019 - Present. Sr. DevOps at NymCard
+
+**Used Technologies:** Kubernetes(GCP, Bare Metal), EFK stack, MongoDB,
+PostgreSQL, Bitbucket (git, CI), Memcached, Kafka, Prometheus, Docker.
+
+**Achievements:**
+ * Settings Kubernetes clusters from scratch for banking
+ * Settings Kubernetes clusters without internet
+ * Custom alerting tool for Prometheus (Proxy to Google Chat)
+ * Deployment java services on kubernetes clusters
+
 ### May 2018 - Feb 2019. DevOps at TecSynt Solutions / NYNJA
 
 **Used Technologies:** Kubernetes, Docker, Istio, EFK/ELK stack, GCP/GKE,
