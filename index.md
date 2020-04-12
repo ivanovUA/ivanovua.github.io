@@ -9,16 +9,27 @@ Skype: ua.corleone.ua
 Telegram: @a1ex_iv
 ## Summary
 I'm a DevOps and Linux, Unix system engineer
-In my work experience below you'll find over 6 year of Unix and Linux system administration including network administration and DevOps. Last years I'm working as DevOps and provide this culture to companies. Part of being a system administrator required many things of me such as: team work, technical writing, project planning and problem solving. Also, a big part of system administration is learning new technologies on a regular basis. When working on a new project, I like to speak with the client, so that I can have a clear understanding of his/her needs and vision of the project.
+In my work experience below you'll find over 7 years of Unix and Linux system administration including network administration and DevOps. Last years I'm working as DevOps and provide this culture to companies. Part of being a DevOps required many things of me such as: teamwork, technical writing, project planning and problem-solving. Also, a big part of my time is learning new technologies on a regular basis. When working on a new project, I like to speak with the client, so that I can have a clear understanding of his/her needs and vision of the project.
 
 ## Languages
   * English — upper intermediate
   * Russian — fluent
   * Ukrainian — native
-  
+
 ## Experience
 
-### May 2019 - Present. Sr. DevOps at NymCard
+### Dec 2019 - Present. Senior DevOps at Geozilla
+**Used Technologies:** AWS (EKS, EC2, Route53, CloudFront, RDS, DocumentDB, ElastiCache, VPC), Terraform, MongoDB, MariaDB, RabbitMQ, Kubernetes, Docker, Helm 3.0, Jenkins, EFK stack, Grafana, Prometheus, Vault, jmeter, Redline13.
+
+**Achievements:**
+ * Infrastructure as code (Terraform, CloudFormation)
+ * Vault secrets management in Kubernetes
+ * Security practices
+ * Infrastructure load testing
+ * PHP services on kubernetes clusters
+ * Isolated kubernetes cluster in VPC
+
+### May 2019 - Dec 2019. Sr. DevOps at NymCard
 
 **Used Technologies:** Kubernetes(GCP, Bare Metal), EFK stack, MongoDB,
 PostgreSQL, Bitbucket (git, CI), Memcached, Kafka, Prometheus, Docker.
@@ -109,4 +120,3 @@ Business school
   * Adequate work/life — balance
   * Opportunity for iniative and interesting tasks
   * Long term projects
-
