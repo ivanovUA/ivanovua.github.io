@@ -4,7 +4,7 @@ layout: default
 
 Location: Ukraine, Kyiv
 
-mail: ivanov.ua@ukr.net   
+mail: alex.yu.ivanov@gmail.com  
 Skype: ua.corleone.ua   
 Telegram: @a1ex_iv
 ## Summary
