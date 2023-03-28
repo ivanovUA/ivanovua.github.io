@@ -7,15 +7,35 @@ Location: Ukraine, Kyiv
 mail: alex@iv-ops.com    
 Telegram: @a1ex_iv
 ## Summary
-I'm a DevOps and Linux, Unix system engineer
-In my work experience below you'll find over 7 years of Unix and Linux system administration including network administration and DevOps. Last years I'm working as DevOps and provide this culture to companies. Part of being a DevOps required many things of me such as: teamwork, technical writing, project planning and problem-solving. Also, a big part of my time is learning new technologies on a regular basis. When working on a new project, I like to speak with the client, so that I can have a clear understanding of his/her needs and vision of the project.
+As a highly skilled Linux system engineer with specialized expertise in DevOps, I possess an impressive track record of over 7 years of experience in Linux system administration, including network administration and DevOps. Over the past few years, I have been working as a DevOps professional, successfully implementing this culture in various companies.<br>
+
+In my role as a DevOps professional, I have had to hone my skills in teamwork, technical writing, project planning, and problem-solving. I am dedicated to staying up-to-date with the latest technological advancements and continuously learning to enhance my abilities. <br>
+
+To ensure the success of each project I work on, I prioritize effective communication with clients to gain a clear understanding of their needs and project vision. This allows me to tailor my approach to meet the unique requirements of each project. <br>
+
+In my current role as a Team Lead in DevOps and SRE teams, as well as the Head of Infrastructure, I have acquired excellent management skills. These include managing teams, infrastructure budgets, and ensuring that all projects are delivered on time and within budget.<br>
+
+Overall, I am confident that my expertise and experience in DevOps and Linux system engineering make me an ideal candidate for any challenging role in this field.
 
 ## Expectations from work
-  * Ability to use at least 50% of the skills already available
-  * Opportunity to actively build on the experience that falls well in the summary
-  * Adequate work/life — balance
-  * Opportunity for initiative and interesting tasks
-  * Long term projects
+  * Utilize at least 50% of my existing skill set
+  * Chance to expand and build upon my existing experience
+  * Appropriate work-life balance
+  * Engaging and challenging projects that allow for initiative
+  * Long-term projects that offer opportunities for growth and development
+
+## Technology stack
+  * Cloud Technologies: AWS, GCP, Azure, Hetzner
+  * Infrastructure as Code: Terraform, Helm 3.0, ArgoCD, Ansible
+  * Languages: Go, Python, Bash
+  * Databases: MongoDB, MySQL, PostgreSQL, Memcached, Redis
+  * Messaging: RabbitMQ, Kafka
+  * Monitoring and Logging: EFK/ELK stack, Grafana, Prometheus, Nagios, NewRelic
+  * Containerization: Docker, Containerd, Kubernetes
+  * CI/CD Tools: Jenkins, BitbucketCI, GitlabCI, Artifactory, Github Actions, CircleCI
+  * Security: Hashicorp Vault, DefectoDojo, trivy, OpenVPN, LDAP
+  * Web Servers and Load Balancers: Nginx, Apache2, Varnish
+  * Other Tools: crypto-nodes, jmeter, Redline13, Crashlytics
 
 ## Languages
   * English — upper intermediate
@@ -24,7 +44,8 @@ In my work experience below you'll find over 7 years of Unix and Linux system ad
 
 ## Experience
 
-### Dec 2019 - Present. Senior DevOps at Geozilla
+### Mar 2021 - Present. Team Lead DevOps/SRE. Head of Infrastructure at GeoZilla
+### Dec 2019 - Mar 2021. Senior DevOps at Geozilla
 **Used Technologies:** AWS (EKS, EC2, Route53, CloudFront, RDS, DocumentDB, ElastiCache, VPC), Terraform, MongoDB, MariaDB, RabbitMQ, Kubernetes, Docker, Helm 3.0, Jenkins, EFK stack, Grafana, Prometheus, Vault, jmeter, Redline13.
 
 **Achievements:**
