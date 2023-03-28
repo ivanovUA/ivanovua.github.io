@@ -14,7 +14,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get -y install pandoc texlive-latex-base
+          sudo apt-get -y install pandoc texlive-latex-base texlive-latex-recommended
       - name: Create PDF
         run: |
           pandoc index.md -o CV.pdf
