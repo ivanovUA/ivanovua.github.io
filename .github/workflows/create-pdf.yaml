@@ -1,0 +1,27 @@
+name: Create PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  create-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get -y install pandoc
+      - name: Create PDF
+        run: |
+          pandoc index.md -o CV.pdf
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Create PDF from Markdown'
+          commit_user_name: 'GitHub Actions'
+          commit_user_email: 'actions@github.com'
+          file_pattern: CV.pdf
