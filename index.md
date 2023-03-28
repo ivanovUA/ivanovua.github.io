@@ -5,7 +5,7 @@ layout: default
 Location: Ukraine, Kyiv
 
 mail: alex@iv-ops.com    
-Telegram: @a1ex_iv
+Telegram: @a1ex_iv <br>
 ## Summary
 As a highly skilled Linux system engineer with specialized expertise in DevOps, I possess an impressive track record of over 7 years of experience in Linux system administration, including network administration and DevOps. Over the past few years, I have been working as a DevOps professional, successfully implementing this culture in various companies.<br>
 
@@ -48,24 +48,24 @@ Overall, I am confident that my expertise and experience in DevOps and Linux sys
 ### Dec 2019 - Mar 2021. Senior DevOps at Geozilla
 **Used Technologies:** AWS (EKS, EC2, Route53, CloudFront, RDS, DocumentDB, ElastiCache, VPC), Terraform, MongoDB, MariaDB, RabbitMQ, Kubernetes, Docker, Helm 3.0, Jenkins, EFK stack, Grafana, Prometheus, Vault, jmeter, Redline13.
 
-**Achievements:**
- * Infrastructure as code (Terraform, CloudFormation)
- * Vault secrets management in Kubernetes
- * Security practices
- * Infrastructure load testing
- * PHP services on kubernetes clusters
- * Isolated kubernetes cluster in VPC
+#### Achievements:
+  * Infrastructure as code (Terraform, CloudFormation)
+  * Vault secrets management in Kubernetes
+  * Security practices
+  * Infrastructure load testing
+  * PHP services on kubernetes clusters
+  * Isolated kubernetes cluster in VPC
 
 ### May 2019 - Dec 2019. Sr. DevOps at NymCard
 
 **Used Technologies:** Kubernetes(GCP, Bare Metal), EFK stack, MongoDB,
 PostgreSQL, Bitbucket (git, CI), Memcached, Kafka, Prometheus, Docker.
 
-**Achievements:**
- * Settings Kubernetes clusters from scratch for banking
- * Settings Kubernetes clusters without internet
- * Custom alerting tool for Prometheus (Proxy to Google Chat)
- * Deployment java services on kubernetes clusters
+#### Achievements:
+  * Settings Kubernetes clusters from scratch for banking
+  * Settings Kubernetes clusters without internet
+  * Custom alerting tool for Prometheus (Proxy to Google Chat)
+  * Deployment java services on kubernetes clusters
 
 ### May 2018 - Feb 2019. DevOps at TecSynt Solutions / NYNJA
 
@@ -73,21 +73,21 @@ PostgreSQL, Bitbucket (git, CI), Memcached, Kafka, Prometheus, Docker.
 AWS(SES, EC2, Mobile Device Farm, etc.), SauceLabs, Jira, Jenkins, Artifactory,
 LDAP, OpenVPN, Helm charts, Crashlytics, Github, Terraform.
 
-**Achievements:**
- * Kubernetes infrastructure with CI/CD
- * EFK/ELK stack for logging
- * OpenVPN with LDAP for access to closed resources and user management
- * Custom Crashlytics webhook with Jira integration
- * A lot of custom Helm charts
- * CI/CD with Jenkins
- * Mobile testing farm (AWS MDF, SauceLabs)
+#### Achievements:
+  * Kubernetes infrastructure with CI/CD
+  * EFK/ELK stack for logging
+  * OpenVPN with LDAP for access to closed resources and user management
+  * Custom Crashlytics webhook with Jira integration
+  * A lot of custom Helm charts
+  * CI/CD with Jenkins
+  * Mobile testing farm (AWS MDF, SauceLabs)
 
 ### Jun 2016 — May 2018. Linux system engineer and DevOps. Architechs
 High-load hosting company
 
 **Used Technologies:** Nginx, Apache2, Varnish, OnApp, SaltStack, iptables, Docker, Kubernetes, Nagios, NewRelic, Python, Bash, Redmine, Gitlab.
 
-**Achievements:**
+#### Achievements:
   * Worked as problem solver
   * Dockerization
   * Written a lot of SaltStack rules
@@ -103,7 +103,7 @@ Small company with Linux servers
 
 **Used Technologies:** Nginx, Apache2, Icinga, KVM, PostgreSQL, Postfix, Samba, OpenVPN, LUKS  
 
-**Achievements:**
+#### Achievements:
   * Fully automated systems
   * Bot for Telegram that notify for alerts
   * Fully configured firewall with failover
@@ -113,7 +113,7 @@ Small company with Linux servers
 ### Mar 2015 — May 2016. Senior linux engineer. NASOA
 Business school  
 
-**Achievements:**
+#### Achievements:
   * Manager work
   * Planned projects
   * Planned shifts
@@ -122,7 +122,7 @@ Business school
 ### Feb 2015 — May 2015. Linux engineer. NASOA
 Business school  
 
-**Achievements:**
+#### Achievements:
   * Setup a new HVs and VMs
   * Bash and Python scripting
   * Automating systems
@@ -130,7 +130,7 @@ Business school
 ### Jan 2012 — Feb 2015. Junior linux system engineer. NASOA
 Business school  
 
-**Achievements:**
+#### Achievements:
   * Have been setted linux systems for production
   * Help fix troubles for linux engineers
 
