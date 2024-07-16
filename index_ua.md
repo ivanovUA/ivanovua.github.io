@@ -46,7 +46,7 @@ Telegram: @a1ex_iv <br>
 
 ## Досвід
 
-### Березень 2021 - Теперішній час. Керівний команди DevOps/SRE. Голова інфрастуктурного підрозділу в GeoZilla
+### Березень 2021 - Липень 2024. Керівний команди DevOps/SRE. Голова інфрастуктурного підрозділу в GeoZilla
 ### Грудень 2019 - Березень 2021. Старший DevOps в Geozilla
 **Технології що використовував:** AWS (EKS, EC2, Route53, CloudFront, RDS, DocumentDB, ElastiCache, VPC), Terraform, MongoDB, MariaDB, RabbitMQ, Kubernetes, Docker, Helm 3.0, Jenkins, EFK stack, Grafana, Prometheus, Vault, jmeter, Redline13.
 
