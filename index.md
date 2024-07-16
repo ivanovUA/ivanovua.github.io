@@ -44,7 +44,7 @@ Overall, I am confident that my expertise and experience in DevOps and Linux sys
 
 ## Experience
 
-### Mar 2021 - Present. Team Lead DevOps/SRE. Head of Infrastructure at GeoZilla
+### Mar 2021 - Jul 2024. Team Lead DevOps/SRE. Head of Infrastructure at GeoZilla
 ### Dec 2019 - Mar 2021. Senior DevOps at Geozilla
 **Used Technologies:** AWS (EKS, EC2, Route53, CloudFront, RDS, DocumentDB, ElastiCache, VPC), Terraform, MongoDB, MariaDB, RabbitMQ, Kubernetes, Docker, Helm 3.0, Jenkins, EFK stack, Grafana, Prometheus, Vault, jmeter, Redline13.
 
